@@ -527,7 +527,7 @@ Ubuntu 安装后，root用户默认是被锁定了的，不允许登录，也不
 
 | 问题                                                         | 解决方法                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![image-20220626152439678](D:\Typora\imags\image-20220626152439678.png) | ![image-20220626152507063](D:\Typora\imags\image-20220626152507063.png) |
+| ![image-20220626152439678](https://cdn.jsdelivr.net/gh/moutao-123/first-repository/picture/image-20220626152439678.png) | ![image-20220626152507063](https://cdn.jsdelivr.net/gh/moutao-123/first-repository/picture/image-20220626152507063.png) |
 
 接下来，就可以装C语言编译器gcc：
 
