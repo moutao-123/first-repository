@@ -8,9 +8,15 @@
 
 ------
 
+<div style="page-break-after: always;"></div>
 
+## 1、typora添加到鼠标右键选项 
 
-## typora添加到鼠标右键选项
+------
+
+本文链接：
+
+/[2、添加typora主题](#2、添加typora主题)/  /[3、关联git与github](#3、关联git与github（关联后可将文件传输到GitHub仓库中）)/  /[4、typora图传github](#4、typora图传github)/
 
 ------
 
@@ -30,9 +36,15 @@
 
 ------
 
+<div style="page-break-after: always;"></div>
 
+## 2、添加typora主题
 
-## 添加typora主题
+------
+
+本文链接：
+
+ /[1、typora添加到鼠标右键选项](#1、typora添加到鼠标右键选项 ) / /[3、关联git与github](#3、关联git与github（关联后可将文件传输到GitHub仓库中）)/  /[4、typora图传github](#4、typora图传github)/
 
 ------
 
@@ -44,17 +56,23 @@
 
 ------
 
+<div style="page-break-after: always;"></div>
 
-
-## 关联git与github（关联后可将文件传输到GitHub仓库中）
+## 3、关联git与github（关联后可将文件传输到GitHub仓库中）
 
 ------
 
+本文链接：
 
+/[1、typora添加到鼠标右键选项](#1、typora添加到鼠标右键选项 ) / /[2、添加typora主题](#2、添加typora主题)/ /[4、typora图传github](#4、typora图传github)/
+
+------
 
 参考：[Typora+Github | 神仙笔记软件 | 版本管理 | Markdown_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ro4y197rx?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=fde36691353aca2af7a437076ee900d5)
 
 ​			[git基本操作，一篇文章就够了！ - 掘金 (juejin.cn)](https://juejin.cn/post/6844903598522908686)
+
+------
 
 
 
@@ -62,7 +80,7 @@
 
 #### 公钥添加
 
-如果在电脑中第一次使用git一定要记得在本地创建一个公钥，并添加到github中，保证本地和远端的github是可以连接的。以下为具体步骤：
+如果在电脑中第一次使用git一定要记得在本地[创建公钥](#创建并查看公钥#)，并添加到github中，保证本地和远端的github是可以连接的。以下为具体步骤：
 
 GitHub官网-->"settings"-->"SSH and GPG keys"-->"new SSH Key"
 
@@ -83,6 +101,8 @@ GitHub官网-->"settings"-->"SSH and GPG keys"-->"new SSH Key"
 <img src="https://cdn.jsdelivr.net/gh/moutao-123/first-repository/picture/image-20220626021149868.png" alt="image-20220626021149868" style="zoom:150%;" />
 
 ![image-20220626022416349](https://cdn.jsdelivr.net/gh/moutao-123/first-repository/picture/image-20220626022416349.png)
+
+<div style="page-break-after: always;"></div>
 
 | 名称                   | 作用                                                         |
 | ---------------------- | ------------------------------------------------------------ |
@@ -148,15 +168,21 @@ GitHub官网-->"settings"-->"SSH and GPG keys"-->"new SSH Key"
 
 ------
 
+<div style="page-break-after: always;"></div>
 
-
-## typora图传github
+## 4、typora图传github
 
 ------
 
+本文链接：
 
+/[1、typora添加到鼠标右键选项](#1、typora添加到鼠标右键选项 ) / /[2、添加typora主题](#2、添加typora主题)/ /[3、关联git与github](#3、关联git与github（关联后可将文件传输到GitHub仓库中）)/ 
+
+------
 
 ***参考：***[Typora使用PicGo-Core（不用安装node.js）作为图片上传服务，并使用github作为图床_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1iQ4y1678N?spm_id_from=333.880.my_history.page.click&vd_source=fde36691353aca2af7a437076ee900d5)
+
+------
 
 
 
